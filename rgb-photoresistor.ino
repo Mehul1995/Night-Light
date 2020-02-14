@@ -1,4 +1,6 @@
 // By Mehul and Rachel
+// for reference and inspiration - https://pimylifeup.com/arduino-light-sensor/
+
 
 int greenLedPin = 2;           // Pin Green LED is connected to
 int blueLedPin = 3;          // Pin blue LED is connected to
