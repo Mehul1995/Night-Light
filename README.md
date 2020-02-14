@@ -1,2 +1,2 @@
 # Night-Light
-Arduino based project
+Arduino project for sound detection and light proximity.
